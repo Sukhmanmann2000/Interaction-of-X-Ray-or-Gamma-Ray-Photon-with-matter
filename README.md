@@ -2,6 +2,8 @@
 Made by: Sukhmanjit Singh Mann, CSE Department, IIT Bombay
 
 Programming Interface: Octave 5.1.0
+Library Used: libsvm-3.23
+https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 
 Note: This program works on Octave which must be pre-installed on your device.
 
